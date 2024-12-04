@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+\*\*bold\*\* **bold**<br>
+\_italic\_<br>
+~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
@@ -36,6 +38,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+### Header a
+* Thisa
+
+### Header b
+
+*Thisb
 
 #### Header 4
 
