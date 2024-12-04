@@ -8,7 +8,7 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-[POST1](./2024-12-04-post1.md).
+[POST1](./2024-12-04-post1).
 
 There should be whitespace between paragraphs.
 
