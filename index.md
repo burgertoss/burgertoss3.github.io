@@ -63,7 +63,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------|:------------------|:------|
+|:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -90,6 +90,7 @@ end
 ### And a nested list:
 
 - level 1 item
+
   - level 2 item
   - level 2 item
     - level 3 item
