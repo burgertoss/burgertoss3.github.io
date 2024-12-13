@@ -7,7 +7,7 @@ toc: true
 \_italic\_<br>
 ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page).
+[Link to another page](another-page.md).
 
 [POST1](_posts/2024-12-04-post1.md).
 
