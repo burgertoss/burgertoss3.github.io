@@ -1,6 +1,7 @@
 ---
 layout: default
 toc: true
+title: Home
 ---
 
 \*\*bold\*\* **bold**<br>
