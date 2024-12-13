@@ -7,9 +7,9 @@ toc: true
 \_italic\_<br>
 ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[Link to another page](another-page).
 
-[POST1](./2024-12-04-post1).
+[POST1](_posts/2024-12-04-post1.md).
 
 There should be whitespace between paragraphs.
 
