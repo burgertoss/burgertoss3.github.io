@@ -1,15 +1,12 @@
 ---
 layout: default
-toc: true
 ---
 
-\*\*bold\*\* **bold**<br>
-\_italic\_<br>
-~~strikethrough~~ or `keyword`.
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page.md).
+[Link to another page](./another-page.md).
 
-[POST1](_posts/2024-12-04-post1.md).
+[POST1](./_posts/2024-12-04-post1.md).
 
 There should be whitespace between paragraphs.
 
